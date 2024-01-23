@@ -18,7 +18,7 @@ function App() {
 
           <div className="white-gradient" />
         <Header />
-        <Hero />
+         <Hero /> 
 
         </div>
 
@@ -26,8 +26,8 @@ function App() {
         <Residences />
         <Values />
         <Contact />
-        <Getstarted />
-        <Footer />
+        <Getstarted /> 
+        <Footer /> 
     </div>
 
   );
